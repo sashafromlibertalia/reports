@@ -1,0 +1,6 @@
+[submodule "Reports.Frontend"]
+	path = Reports.Frontend
+	url = https://github.com/sashafromlibertalia/reports-frontend.git
+[submodule "Reports.Backend"]
+	path = Reports.Backend
+	url = https://github.com/sashafromlibertalia/reports-backend
